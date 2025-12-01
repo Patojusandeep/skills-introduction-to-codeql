@@ -64,3 +64,5 @@ jobs:
     with:
       issue-url: ${{ needs.find_exercise.outputs.issue-url }}
       exercise-title: "Introduction to CodeQL"
+
+      
